@@ -1,0 +1,12 @@
+map_key1: mapvalue1
+map_key2: mapvalue2
+map_map:
+  map_map_key1: value1
+  map_map_key2: value2
+SEQUENCE:
+- sequence1
+- sequence2
+- sequence3
+- sequence4
+- sequence5
+- sequence6_map: {sequence_map_key1: value1, sequence_map_key2: value2}
